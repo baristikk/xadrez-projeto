@@ -18,6 +18,10 @@ namespace tabuleiro
 
 
         }
+        public void incrementarQteMovimentos()
+        {
+            qteMovimentos++;
+        }
     }
 
 }
